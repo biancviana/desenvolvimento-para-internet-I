@@ -1,0 +1,17 @@
+body {
+  background-color: #221810;
+}
+
+.section-title {
+  font-weight: 700;
+  color: white;
+}
+
+.section-text {
+  color: white;
+}
+
+.footer {
+  background-color: #7a4e2d;
+  color: white;
+}
